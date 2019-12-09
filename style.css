@@ -2,6 +2,8 @@
 body {
   background-image: url(https://as2.ftcdn.net/jpg/01/09/72/61/500_F_109726173_q2ksiyO2DyiEFzPVUtToydfAEHoftpfZ.jpg);
   font-family: 'merriweather', serif;
+
+  
 }
 
 h1 {
@@ -38,7 +40,7 @@ svg {
   text-align: center;
   margin: 3.125rem;
   display: inline-block;
-  width: 90%;
+  width: 1440px;
   height: auto;
   padding-bottom: 50px;
   margin-left: 100px;
@@ -60,7 +62,7 @@ svg {
   display: inline-block;
   margin: 1.875rem;
   position: relative;
-    border-style: solid;
+  border-style: solid;
 
 
 }
@@ -108,7 +110,7 @@ svg {
   position: relative;
   float: left;
   top: 9.375rem;
-    left: 20.3125rem;
+    left: 14.0625rem;
 
 
 }
@@ -123,7 +125,7 @@ svg {
   height: 200px;
   position: absolute;
     display: inline-block;
-    top: 17.1875rem;
+    top: 18.75rem;
 
 }
 
@@ -137,8 +139,8 @@ svg {
   height: 200px;
   position: relative;
   top: 275px;
-      right: 11.5625rem;
-      left: 0.125rem;
+  right: 11.5625rem;
+  left: 0.125rem;
 
     }
 
@@ -153,7 +155,7 @@ svg {
   position: relative;
   margin: 30px;
   float: right;
-    top: 9.375rem;
-    right: 20.3125rem;
+  top: 9.375rem;
+  right: 14.0625rem;
 
 }
