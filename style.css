@@ -1,0 +1,159 @@
+/*********TAG SELECTOR*********/
+body {
+  background-image: url(https://as2.ftcdn.net/jpg/01/09/72/61/500_F_109726173_q2ksiyO2DyiEFzPVUtToydfAEHoftpfZ.jpg);
+  font-family: 'merriweather', serif;
+}
+
+h1 {
+  font-size: 1.875rem;
+  font-weight: bold;
+}
+
+p {
+  text-align: center;
+  margin: auto;
+  line-height: 1.3;
+  position: relative;
+
+}
+
+h3 {
+  font-family: 'sacramento', cursive;
+  text-align: left;
+
+}
+
+svg {
+  height: 30px;
+  width: 30px;
+}
+
+
+
+
+/*********CLASS SELECTOR*********/
+.main {
+  background-color: white;
+  border-style: outset;
+  text-align: center;
+  margin: 3.125rem;
+  display: inline-block;
+  width: 90%;
+  height: auto;
+  padding-bottom: 50px;
+  margin-left: 100px;
+
+}
+
+.power {
+  font-weight: normal;
+}
+
+.para {
+  width: 31.25rem;
+}
+.cards {
+  margin: 1.875rem;
+
+}
+.card {
+  display: inline-block;
+  margin: 1.875rem;
+  position: relative;
+    border-style: solid;
+
+
+}
+
+.card h3 {
+  margin-left: 15px;
+}
+.card p {
+  text-align: left;
+  margin: auto;
+  position: relative;
+  margin-left: 15px;
+}
+.card:hover {
+    box-shadow: 1px 10px 13px 5px rgba(0,0,0,0.57);
+  transition: 0.4s;
+}
+
+.icon {
+  float: right;
+  margin: auto;
+  margin-right: 20px;
+  margin-top: 15px;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 300px;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+
+
+/*********ID SELECTOR*********/
+#supervisor {
+  border-collapse: separate;
+  border-spacing: 15px;
+  border-top-color: turquoise;
+  border-width: thick thin thin thin;
+  width: 275px;
+  height: 200px;
+  position: relative;
+  float: left;
+  top: 9.375rem;
+    left: 20.3125rem;
+
+
+}
+
+#team-builder {
+
+  border-collapse: separate;
+  border-spacing: 15px;
+  border-top-color: red;
+  border-width: thick thin thin thin;
+  width: 275px;
+  height: 200px;
+  position: absolute;
+    display: inline-block;
+    top: 17.1875rem;
+
+}
+
+#karma {
+
+  border-collapse: separate;
+  border-spacing: 15px;
+  border-top-color: yellow;
+  border-width: thick thin thin thin;
+  width: 275px;
+  height: 200px;
+  position: relative;
+  top: 275px;
+      right: 11.5625rem;
+      left: 0.125rem;
+
+    }
+
+#calculator {
+
+  border-collapse: separate;
+  border-spacing: 15px;
+  border-top-color: blue;
+  border-width: thick thin thin thin;
+  width: 275px;
+  height: 200px;
+  position: relative;
+  margin: 30px;
+  float: right;
+    top: 9.375rem;
+    right: 20.3125rem;
+
+}
